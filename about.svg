@@ -1,0 +1,27 @@
+<!-- Created with html5-to-svg (https://github.com/greensoap/html5-to-svg--><svg xmlns="http://www.w3.org/2000/svg"><script></script><style>@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200');
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#generated-svg-html{
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  font-family: "Poppins";
+}
+
+div{
+  background: rgba(23, 16, 79, 0.69);
+  margin: 11px 0px;
+  padding: 10px 15px;
+}
+
+div:nth-of-type(2){
+  background: rgba(16, 47, 79, 0.69);
+}
+
+div:last-of-type{
+  background: rgba(71,16,79,0.69);}</style><foreignObject x="0" y="0" width="100%" height="100%"><main id="generated-svg-html" xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"><header><h1>HTML to SVG conversion tool.</h1></header><article><div><h2>Installation</h2><code>npm i html5-to-svg -g</code></div><div><h2>Usage</h2><code>html5-to-svg --dir './foo' -out 'bar.svg'</code></div><div><h2>Why?</h2><code>For example, you can make READMEs on Github really fancy:)</code></div></article></main></foreignObject></svg>
