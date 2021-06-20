@@ -24,4 +24,4 @@ div:nth-of-type(2){
 }
 
 div:last-of-type{
-  background: rgba(71,16,79,0.69);}</style><foreignObject x="0" y="0" width="800px" height="600px"><main id="generated-svg-html" xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"><header><h1>HTML5 to SVG conversion tool.</h1></header><article><div><h2>Installation</h2><code>Clone and run npm i -g</code></div><div><h2>Usage</h2><code>html5-to-svg --dir './foo' -out 'bar.svg'</code></div><div><h2>Why?</h2><code>For example, you can make READMEs on Github really fancy:)</code></div></article></main></foreignObject></svg>
+  background: rgba(71,16,79,0.69);}</style><foreignObject x="0" y="0" width="100%" height="100%"><main id="generated-svg-html" xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"><header><h1>HTML5 to SVG conversion tool.</h1></header><article><div><h2>Installation</h2><code>Clone and run npm i -g</code></div><div><h2>Usage</h2><code>html5-to-svg --dir './foo' -out 'bar.svg'</code></div><div><h2>Why?</h2><code>For example, you can make READMEs on Github really fancy:)</code></div></article></main></foreignObject></svg>
